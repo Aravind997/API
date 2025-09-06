@@ -1,0 +1,186 @@
+﻿  pch.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  AddAdmin.cpp
+  AddUser.cpp
+  base64.cpp
+  Base64Util.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Base64Util.cpp(61,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Base64Util.cpp(72,69): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Base64Util.cpp(89,65): warning C4267: '=': conversion from 'size_t' to 'BYTE', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Base64Util.cpp(111,51): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Blockuser.cpp
+  CAddAComment.cpp
+  CAddadmin.cpp
+  CAddComment.cpp
+  CAddCompany.cpp
+  CAdddelfooter.cpp
+  CAdddelhedear.cpp
+  CAddExamCategory.cpp
+  CAddExamSubCategory.cpp
+  CAddexternallink.cpp
+  CAddFourms.cpp
+  Caddinternalink.cpp
+  CAddProduct.cpp
+  CAddThread.cpp
+  CAddTopic.cpp
+  CAddUpdateDeleteForums.cpp
+  Generating Code...
+  Compiling...
+  CAddUpdateDeleteTopics.cpp
+  CAddUpdateThread.cpp
+  CAllForms.cpp
+  CAllonlineuser.cpp
+  CAllTopicForms.cpp
+  Calluserinfo.cpp
+  CApplyForLeave.cpp
+  CAssignTaskForm.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\CAssignTaskForm.cpp(59,6): warning C4101: 'userid': unreferenced local variable
+  CCopy.cpp
+  CDefault.cpp
+  CDelComment.cpp
+  CDeleteAComment.cpp
+  Cdeleteadmin.cpp
+  CDeleteAThread.cpp
+  CDeleteThread.cpp
+  Cdeleteuser.cpp
+  Cdownloaddataform.cpp
+  Cdownloadfilefromcloud.cpp
+  CDtgetassigntasklist.cpp
+  CEmployeeForm.cpp
+  Generating Code...
+  Compiling...
+  CExamCategoriesList.cpp
+  CExamDefaultSettings.cpp
+  CExamQuestionPaper.cpp
+  CExamSubCategories.cpp
+  Cfilenameform.cpp
+  Cfileupload.cpp
+  CFormRegister.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\CFormRegister.cpp(159,20): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Cgetallbuglist.cpp
+  CGetAllCompanies.cpp
+  CGetAllForum.cpp
+  CGetAllProductList.cpp
+  CGetAllThread.cpp
+  CGetAllTopic.cpp
+  CGetBugTrackerDetailsList.cpp
+  CGetDetailedPageInfo.cpp
+  CGetLicenseInfo.cpp
+  Cgetseopageinfo.cpp
+  CGetTTSettings.cpp
+  CHrSendEmail.cpp
+  CImportData.cpp
+  Generating Code...
+  Compiling...
+  CInviteEmployeeForm.cpp
+  Cinviteuser.cpp
+  CLeaveApplicationForm.cpp
+  CLicenceTestApp.cpp
+  CListAllPageInfoWithLink.cpp
+  CListLeaveApplications.cpp
+  CPaymentGateway.cpp
+  Cpostdeffectform.cpp
+  CProjectForm.cpp
+  CQuestionMaster.cpp
+  CSentemailform.cpp
+  CSetseopageinfo.cpp
+  CSinglePageSettings.cpp
+  CSubTaskForm.cpp
+  CTaskForm.cpp
+  Ctextchatform.cpp
+  CTTDataSummery.cpp
+  Cuploadappdata.cpp
+  CUploadWorkLog.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\CUploadWorkLog.cpp(189,38): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  Cusertaskdetails.cpp
+  Generating Code...
+  Compiling...
+  Cvoicechatform.cpp
+  DeleteAdmin.cpp
+  DeleteUser.cpp
+  GetAllExternalLinks.cpp
+  GetAllInternalLinks.cpp
+  InviteUser.cpp
+  MainFrm.cpp
+  Markup.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Markup.cpp(339,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Markup.cpp(405,34): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Markup.cpp(536,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Markup.cpp(712,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Markup.cpp(735,29): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Markup.cpp(717,10): warning C4101: 'pFound': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Markup.cpp(788,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Markup.cpp(1036,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Markup.cpp(1037,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  NetworkRequest.cpp
+  AppAccountService.cpp
+  AppApiService.cpp
+  AppAuthService.cpp
+  AppCBService.cpp
+  AppCmsService.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppCmsService.cpp(16,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppCmsService.cpp(19,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppCmsService.cpp(39,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AppCommService.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppCommService.cpp(231,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AppDTService.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppDTService.cpp(44,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppDTService.cpp(172,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AppEComService.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppEComService.cpp(146,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AppExamService.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppExamService.cpp(13,1): warning C4129: ' ': unrecognized character escape sequence
+  AppForumService.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(47,31): warning C4101: 'e': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(74,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(79,31): warning C4101: 'e': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(107,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(114,31): warning C4101: 'e': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(141,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(148,31): warning C4101: 'e': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(187,31): warning C4101: 'e': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(221,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(224,57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(237,31): warning C4101: 'e': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(432,31): warning C4101: 'e': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(698,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(701,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(750,31): warning C4101: 'e': unreferenced local variable
+  AppHRService.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppHRService.cpp(213,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppHRService.cpp(249,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppForumService.cpp(882): warning C4715: 'AppApiService::ForceDeleteTopic': not all control paths return a value
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppAccountService.cpp(379): warning C4715: 'AppApiService::Blockusersercive': not all control paths return a value
+  Compiling...
+  AppLicenseService.cpp
+  AppPMSeervice.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(54,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(64,31): warning C4101: 'e': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(110,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(149,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(229,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(234,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(247,31): warning C4101: 'e': unreferenced local variable
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(341,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(397,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(627,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(644,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppPMSeervice.cpp(650,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AppSettingsService.cpp
+  AppTTService.cpp
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppTTService.cpp(23,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\WebCloudAPITest\Services\AppTTService.cpp(24,81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  UserListDlg.cpp
+  WebCloudAPITest.cpp
+  WebCloudAPITestDoc.cpp
+  WebCloudAPITestView.cpp
+  Generating Code...
+JsonAppd.lib(JSON.obj) : warning LNK4099: PDB 'JsonApp.pdb' was not found with 'JsonAppd.lib(JSON.obj)' or at 'C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\x64\Debug\JsonApp.pdb'; linking object as if no debug info
+JsonAppd.lib(JSONvalue.obj) : warning LNK4099: PDB 'JsonApp.pdb' was not found with 'JsonAppd.lib(JSONvalue.obj)' or at 'C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\x64\Debug\JsonApp.pdb'; linking object as if no debug info
+JsonAppd.lib(pch.obj) : warning LNK4099: PDB 'JsonApp.pdb' was not found with 'JsonAppd.lib(pch.obj)' or at 'C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\x64\Debug\JsonApp.pdb'; linking object as if no debug info
+  WebCloudAPITest.vcxproj -> C:\Users\aravi\Desktop\API MENU\Samples\CPP\VCPP\x64\Debug\WebCloudAPITest.exe
